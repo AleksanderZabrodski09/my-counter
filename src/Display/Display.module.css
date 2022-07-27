@@ -1,0 +1,32 @@
+.displayCounter {
+    display: flex;
+    justify-content: center;
+    /*margin: 0 auto;*/
+    align-items: center;
+    width: 90%;
+    height: 150px;
+    font-size: 72px;
+    font-weight: 700;
+    color: #63DAFC;
+    /*border: 3px solid #63DAFC;*/
+    background-color: #1a263d;
+    border-radius: 10px;
+
+}
+
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 100px;
+    /*border: 3px solid #63DAFC;*/
+    border-radius: 10px;
+    padding: 20px 0;
+    background-color: #1a263d;
+}
+
+.redEndCount {
+    font-size: 82px;
+    color: darkred;
+}
